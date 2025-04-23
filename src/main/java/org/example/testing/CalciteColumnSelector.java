@@ -1,4 +1,4 @@
-package org.example;
+package org.example.testing;
 
 import org.apache.calcite.config.Lex;
 import org.apache.calcite.sql.*;

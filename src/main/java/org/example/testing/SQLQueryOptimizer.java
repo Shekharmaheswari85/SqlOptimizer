@@ -1,4 +1,4 @@
-package org.example;
+package org.example.testing;
 
 import org.apache.calcite.sql.parser.SqlParser;
 import org.apache.calcite.avatica.util.Casing;
